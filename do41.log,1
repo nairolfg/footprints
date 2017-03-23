@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : do41.dra                                      )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Mar 14 09:26:02 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = do41.psm
+    User      = Florian_HP
+    Machine   = FLORIAN_HP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

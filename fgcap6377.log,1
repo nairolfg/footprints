@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FGCap6377.dra                                 )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Feb 27 12:47:19 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = fgcap6377.psm
+    User      = Florian_HP
+    Machine   = FLORIAN_HP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

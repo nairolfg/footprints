@@ -1,0 +1,9 @@
+*** QuickView update process started on Wed Jan 04 10:10:33 2012 ***
+
+Updating D:/pdvwinkits/share/pcb/pcb_lib/symbols/0603rf_wv_12d.dra
+No match found for '0603rf_wv_12d.dra' in the search path.
+	ERROR: Failed to open drawing
+
+*** QuickView update done ***
+ Updated designs:     0
+ Failed updates:      1

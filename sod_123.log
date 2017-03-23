@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : SOD_123.dra                                   )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sat Feb 27 17:19:43 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = sod_123.psm
+    User      = Florian_HP
+    Machine   = FLORIAN_HP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

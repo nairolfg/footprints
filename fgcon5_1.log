@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : FGCON5_1.dra                                  )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Mar 06 20:14:14 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
+    Name      = fgcon5_1.psm
+    User      = Florian_HP
+    Machine   = FLORIAN_HP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
