@@ -2,16 +2,16 @@
 (                                                                     )
 (    CREATE SYMBOL                                                    )
 (                                                                     )
-(    Drawing          : FG0805R.dra                                   )
+(    Drawing          : FGconn3.dra                                   )
 (    Software Version : 16.6P004                                      )
-(    Date/Time        : Thu Mar 23 18:14:23 2017                      )
+(    Date/Time        : Mon Aug 15 14:49:15 2016                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 Create Symbol of type: PACKAGE
     Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
-    Name      = fg0805r.psm
+    Name      = fgconn3.psm
     User      = Flo
     Machine   = FLO-PC
 
