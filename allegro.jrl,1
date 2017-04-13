@@ -1,10 +1,47 @@
-\t (00:03:54) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:03:54)     Journal start - Thu Mar 23 18:18:33 2017
-\t (00:03:54)         Host=FLO-PC User=Flo Pid=7752 CPUs=2
-\t (00:03:54) 
-\d (00:03:54) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/FG0805R.dra
-\i (00:03:54) etchedit 
-\i (00:03:56) pick grid -0.625 2.307
-\t (00:03:56) last pick:  -0.500  2.250
-\i (00:04:10) exit 
-\t (00:04:11)     Journal end - Thu Mar 23 18:18:50 2017
+\t (00:10:45) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:10:45)     Journal start - Thu Apr 13 21:13:14 2017
+\t (00:10:45)         Host=FLORIAN_HP-PC User=Florian_HP Pid=6676 CPUs=2
+\t (00:10:45) 
+\d (00:10:45) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
+\i (00:10:46) etchedit 
+\i (00:10:47) zoom in 1 
+\i (00:10:47) setwindow pcb
+\i (00:10:47) zoom in -219 372
+\i (00:10:47) trapsize 11
+\i (00:10:48) zoom in 1 
+\i (00:10:48) setwindow pcb
+\i (00:10:48) zoom in -149 403
+\i (00:10:48) trapsize 5
+\i (00:10:48) zoom out 1 
+\i (00:10:48) setwindow pcb
+\i (00:10:48) zoom out -148 404
+\i (00:10:48) trapsize 11
+\i (00:10:50) drag_start grid -80 643
+\i (00:10:50) drag_stop 776 388
+\i (00:10:53) move 
+\i (00:10:54) pick grid 16 531
+\t (00:10:54) last pick:  25  525
+\t (00:10:54) Pick new location for the element(s).
+\i (00:10:57) pick grid 14 623
+\t (00:10:57) last pick:  25  625
+\i (00:10:57) etchedit 
+\i (00:11:00) prmed 
+\i (00:11:02) setwindow form.prmedit
+\i (00:11:02) FORM prmedit view_grids_button  
+\t (00:11:02) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:11:09) setwindow form.grid
+\i (00:11:09) FORM grid non_etch non_etch_x_grids 100 
+\i (00:11:11) FORM grid non_etch non_etch_y_grids 100 
+\i (00:11:11) FORM grid done  
+\i (00:11:13) setwindow form.prmedit
+\i (00:11:13) FORM prmedit done  
+\i (00:11:14) setwindow pcb
+\i (00:11:14) etchedit 
+\i (00:11:22) save 
+\i (00:11:24) fillin yes 
+\t (00:11:29) Symbol 'wtv020.psm' created.
+\i (00:11:29) etchedit 
+\i (00:11:29) pick grid -239 449
+\t (00:11:29) last pick:  -200  400
+\i (00:11:33) exit 
+\t (00:11:34)     Journal end - Thu Apr 13 21:14:02 2017
