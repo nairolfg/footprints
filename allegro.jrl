@@ -1,22 +1,53 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Thu Mar 23 18:18:59 2017
-\t (00:00:00)         Host=FLO-PC User=Flo Pid=3236 CPUs=2
-\t (00:00:00) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/FG0805R.dra
-\i (00:00:02) trapsize 52
-\i (00:00:02) trapsize 50
-\i (00:00:02) trapsize 52
-\i (00:00:02) trapsize 50
-\i (00:00:03) trapsize 42
-\i (00:00:03) trapsize 50
-\i (00:00:05) open 
-\i (00:00:16) fillin "C:\Cadence\Projekte\moving_head\moving_head.brd"
-\i (00:00:16) cd "C:\Cadence\Projekte\moving_head"
-\t (00:00:16) Opening existing design...
-\w (00:00:16) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
-\w (00:00:16) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
-\w (00:00:16) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
-\i (00:00:17) fillin confirm
-\i (00:00:17) trapsize 275
-\t (00:00:17)     Journal end - Thu Mar 23 18:19:17 2017
+\t (00:20:47) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:20:47)     Journal start - Tue Apr 18 16:36:13 2017
+\t (00:20:47)         Host=FLOPC User=MGZ Pid=276 CPUs=4
+\t (00:20:47) 
+\d (00:20:47) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
+\i (00:20:47) generaledit 
+\i (00:20:48) zoom in 1 
+\i (00:20:48) setwindow pcb
+\i (00:20:48) zoom in -358 853
+\i (00:20:48) trapsize 7
+\i (00:20:53) prmed 
+\i (00:20:54) setwindow form.prmedit
+\i (00:20:54) FORM prmedit view_grids_button  
+\t (00:20:54) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:20:57) setwindow form.grid
+\i (00:20:57) FORM grid non_etch non_etch_x_grids 100 
+\i (00:20:59) FORM grid non_etch non_etch_y_grids 100 
+\i (00:21:01) FORM grid top subclass_x_grids 100 
+\i (00:21:03) FORM grid top subclass_y_grids 100 
+\i (00:21:05) FORM grid bottom subclass_x_grids 100 
+\i (00:21:07) FORM grid bottom subclass_y_grids 100 
+\i (00:21:07) FORM grid done  
+\i (00:21:08) setwindow form.prmedit
+\i (00:21:08) FORM prmedit done  
+\i (00:21:08) setwindow pcb
+\i (00:21:08) generaledit 
+\i (00:21:10) zoom out 1 
+\i (00:21:10) setwindow pcb
+\i (00:21:10) zoom out -12 583
+\i (00:21:10) trapsize 13
+\i (00:21:11) drag_start grid -124 635
+\i (00:21:12) drag_stop 867 286
+\i (00:21:14) move 
+\i (00:21:15) pick grid 286 797
+\t (00:21:15) last pick:  300  800
+\t (00:21:15) Pick new location for the element(s).
+\i (00:21:18) pick grid 316 901
+\t (00:21:18) last pick:  300  900
+\i (00:21:18) generaledit 
+\i (00:21:31) save 
+\i (00:21:33) fillin yes 
+\t (00:21:33) Symbol 'wtv020.psm' created.
+\i (00:21:33) generaledit 
+\i (00:21:36) open 
+\i (00:21:46) fillin "C:\Cadence\Projects\dart_russ_bray\dart_board.brd"
+\i (00:21:46) cd "C:\Cadence\Projects\dart_russ_bray"
+\t (00:21:46) Opening existing design...
+\t (00:21:46) Grids are drawn 50.000, 50.000 apart for enhanced viewability.
+\i (00:21:46) trapsize 16251
+\i (00:21:47) trapsize 15888
+\i (00:21:47) trapsize 16251
+\i (00:21:47) trapsize 16251
+\t (00:21:47)     Journal end - Tue Apr 18 16:37:12 2017

@@ -1,10 +1,22 @@
-\t (00:03:54) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:03:54)     Journal start - Thu Mar 23 18:18:33 2017
-\t (00:03:54)         Host=FLO-PC User=Flo Pid=7752 CPUs=2
-\t (00:03:54) 
-\d (00:03:54) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/FG0805R.dra
-\i (00:03:54) etchedit 
-\i (00:03:56) pick grid -0.625 2.307
-\t (00:03:56) last pick:  -0.500  2.250
-\i (00:04:10) exit 
-\t (00:04:11)     Journal end - Thu Mar 23 18:18:50 2017
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Thu Mar 23 18:18:59 2017
+\t (00:00:00)         Host=FLO-PC User=Flo Pid=3236 CPUs=2
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/FG0805R.dra
+\i (00:00:02) trapsize 52
+\i (00:00:02) trapsize 50
+\i (00:00:02) trapsize 52
+\i (00:00:02) trapsize 50
+\i (00:00:03) trapsize 42
+\i (00:00:03) trapsize 50
+\i (00:00:05) open 
+\i (00:00:16) fillin "C:\Cadence\Projekte\moving_head\moving_head.brd"
+\i (00:00:16) cd "C:\Cadence\Projekte\moving_head"
+\t (00:00:16) Opening existing design...
+\w (00:00:16) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
+\w (00:00:16) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
+\w (00:00:16) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
+\i (00:00:17) fillin confirm
+\i (00:00:17) trapsize 275
+\t (00:00:17)     Journal end - Thu Mar 23 18:19:17 2017

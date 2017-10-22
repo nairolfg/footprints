@@ -1,0 +1,53 @@
+\t (00:00:00) pad_designer 16.6 P001 (v16-6-112A) Windows 32
+\t (00:00:00)     Journal start - Tue Oct 17 17:34:05 2017
+\t (00:00:00)         Host=FLOPC User=MGZ Pid=11476 CPUs=4
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open 
+\i (00:00:09) fillin "test_bohrpad_v.pad"
+\i (00:00:11) FORM padedit layers  
+\i (00:00:17) FORM padedit grid row soldermask_bottom 
+\i (00:00:18) FORM padedit grid row soldermask_top 
+\i (00:00:19) FORM padedit grid row soldermask_bottom 
+\i (00:00:20) FORM padedit grid row end_layer 
+\i (00:00:21) FORM padedit grid row default_internal 
+\i (00:00:21) FORM padedit grid row begin_layer 
+\i (00:00:23) FORM padedit grid row default_internal 
+\i (00:00:23) FORM padedit grid row end_layer 
+\i (00:00:24) FORM padedit grid row soldermask_top 
+\i (00:00:25) FORM padedit grid row soldermask_bottom 
+\i (00:00:26) FORM padedit grid row end_layer 
+\i (00:00:28) FORM padedit grid row begin_layer 
+\i (00:00:30) FORM padedit grid row end_layer 
+\i (00:00:32) FORM padedit grid row begin_layer 
+\i (00:00:34) FORM padedit grid row end_layer 
+\i (00:00:37) FORM padedit single YES 
+\i (00:00:41) pse_save 
+\i (00:00:43) fillin yes 
+\i (00:00:43) fillin yes 
+\i (00:01:18) FORM padedit single NO 
+\i (00:01:20) FORM padedit grid row begin_layer 
+\i (00:01:23) FORM padedit grid row default_internal 
+\i (00:01:23) FORM padedit grid row soldermask_top 
+\i (00:01:25) FORM padedit grid row end_layer 
+\i (00:01:26) FORM padedit grid row begin_layer 
+\i (00:01:30) FORM padedit grid row default_internal 
+\i (00:01:31) FORM padedit grid row soldermask_top 
+\i (00:01:32) FORM padedit grid row end_layer 
+\i (00:01:32) FORM padedit grid row begin_layer 
+\i (00:01:34) FORM padedit grid row default_internal 
+\i (00:01:34) FORM padedit grid row end_layer 
+\i (00:01:35) FORM padedit grid row default_internal 
+\i (00:01:35) FORM padedit grid row begin_layer 
+\i (00:01:35) FORM padedit grid row default_internal 
+\i (00:01:35) FORM padedit grid row end_layer 
+\i (00:01:36) FORM padedit grid row default_internal 
+\i (00:01:37) FORM padedit grid row begin_layer 
+\i (00:01:40) FORM padedit grid row default_internal 
+\i (00:01:41) FORM padedit grid row begin_layer 
+\i (00:01:44) FORM padedit grid row end_layer 
+\i (00:01:45) FORM padedit grid row begin_layer 
+\i (00:01:47) FORM padedit grid row default_internal 
+\i (00:01:53) FORM padedit grid row begin_layer 
+\i (00:02:05) pse_exit
+\t (00:02:05)     Journal end - Tue Oct 17 17:36:10 2017
