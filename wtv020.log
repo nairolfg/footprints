@@ -4,7 +4,11 @@
 (                                                                     )
 (    Drawing          : WTV020.dra                                    )
 (    Software Version : 16.6P004                                      )
+<<<<<<< HEAD
 (    Date/Time        : Tue Apr 18 16:36:59 2017                      )
+=======
+(    Date/Time        : Thu Apr 13 21:13:57 2017                      )
+>>>>>>> 0b9b1d273ee943712d1b95cfb6101cceb35fbaac
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -12,8 +16,13 @@
 Create Symbol of type: PACKAGE
     Directory = C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols
     Name      = wtv020.psm
+<<<<<<< HEAD
     User      = MGZ
     Machine   = FLOPC
+=======
+    User      = Florian_HP
+    Machine   = FLORIAN_HP-PC
+>>>>>>> 0b9b1d273ee943712d1b95cfb6101cceb35fbaac
 
 
 Create symbol started.

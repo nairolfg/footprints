@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \t (00:20:47) allegro 16.6 P004 (v16-6-112G) Windows 32
 \t (00:20:47)     Journal start - Tue Apr 18 16:36:13 2017
 \t (00:20:47)         Host=FLOPC User=MGZ Pid=276 CPUs=4
@@ -51,3 +52,35 @@
 \i (00:21:47) trapsize 16251
 \i (00:21:47) trapsize 16251
 \t (00:21:47)     Journal end - Tue Apr 18 16:37:12 2017
+=======
+\t (00:09:51) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:09:51)     Journal start - Thu Apr 13 21:28:00 2017
+\t (00:09:51)         Host=FLORIAN_HP-PC User=Florian_HP Pid=4060 CPUs=2
+\t (00:09:51) 
+\d (00:09:51) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
+\i (00:09:52) etchedit 
+\i (00:09:53) prepopup 32 614
+\i (00:09:58) pick grid -124 645
+\t (00:09:58) last pick:  -100  600
+\i (00:09:59) pick grid -8 612
+\t (00:09:59) last pick:  0  600
+\i (00:10:00) prepopup -30 610
+\i (00:10:08) pop dyn_option_select '@:@Show element' 
+\i (00:10:08) show element 
+\i (00:10:08) etchedit 
+\i (00:10:11) setwindow text
+\i (00:10:11) close 
+\i (00:10:12) setwindow pcb
+\i (00:10:12) pick grid -381 482
+\t (00:10:12) last pick:  -400  500
+\i (00:10:17) prepopup 1 599
+\i (00:10:19) pick grid 658 416
+\t (00:10:19) last pick:  700  400
+\i (00:10:20) drag_start grid -146 728
+\i (00:10:20) drag_stop 847 -115
+\i (00:10:22) prepopup 662 594
+\i (00:10:48) pick grid 614 225
+\t (00:10:48) last pick:  600  200
+\i (00:10:49) exit 
+\t (00:10:50)     Journal end - Thu Apr 13 21:28:59 2017
+>>>>>>> 0b9b1d273ee943712d1b95cfb6101cceb35fbaac
