@@ -1,86 +1,12 @@
-<<<<<<< HEAD
-\t (00:20:47) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:20:47)     Journal start - Tue Apr 18 16:36:13 2017
-\t (00:20:47)         Host=FLOPC User=MGZ Pid=276 CPUs=4
-\t (00:20:47) 
-\d (00:20:47) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
-\i (00:20:47) generaledit 
-\i (00:20:48) zoom in 1 
-\i (00:20:48) setwindow pcb
-\i (00:20:48) zoom in -358 853
-\i (00:20:48) trapsize 7
-\i (00:20:53) prmed 
-\i (00:20:54) setwindow form.prmedit
-\i (00:20:54) FORM prmedit view_grids_button  
-\t (00:20:54) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:20:57) setwindow form.grid
-\i (00:20:57) FORM grid non_etch non_etch_x_grids 100 
-\i (00:20:59) FORM grid non_etch non_etch_y_grids 100 
-\i (00:21:01) FORM grid top subclass_x_grids 100 
-\i (00:21:03) FORM grid top subclass_y_grids 100 
-\i (00:21:05) FORM grid bottom subclass_x_grids 100 
-\i (00:21:07) FORM grid bottom subclass_y_grids 100 
-\i (00:21:07) FORM grid done  
-\i (00:21:08) setwindow form.prmedit
-\i (00:21:08) FORM prmedit done  
-\i (00:21:08) setwindow pcb
-\i (00:21:08) generaledit 
-\i (00:21:10) zoom out 1 
-\i (00:21:10) setwindow pcb
-\i (00:21:10) zoom out -12 583
-\i (00:21:10) trapsize 13
-\i (00:21:11) drag_start grid -124 635
-\i (00:21:12) drag_stop 867 286
-\i (00:21:14) move 
-\i (00:21:15) pick grid 286 797
-\t (00:21:15) last pick:  300  800
-\t (00:21:15) Pick new location for the element(s).
-\i (00:21:18) pick grid 316 901
-\t (00:21:18) last pick:  300  900
-\i (00:21:18) generaledit 
-\i (00:21:31) save 
-\i (00:21:33) fillin yes 
-\t (00:21:33) Symbol 'wtv020.psm' created.
-\i (00:21:33) generaledit 
-\i (00:21:36) open 
-\i (00:21:46) fillin "C:\Cadence\Projects\dart_russ_bray\dart_board.brd"
-\i (00:21:46) cd "C:\Cadence\Projects\dart_russ_bray"
-\t (00:21:46) Opening existing design...
-\t (00:21:46) Grids are drawn 50.000, 50.000 apart for enhanced viewability.
-\i (00:21:46) trapsize 16251
-\i (00:21:47) trapsize 15888
-\i (00:21:47) trapsize 16251
-\i (00:21:47) trapsize 16251
-\t (00:21:47)     Journal end - Tue Apr 18 16:37:12 2017
-=======
-\t (00:09:51) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:09:51)     Journal start - Thu Apr 13 21:28:00 2017
-\t (00:09:51)         Host=FLORIAN_HP-PC User=Florian_HP Pid=4060 CPUs=2
-\t (00:09:51) 
-\d (00:09:51) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
-\i (00:09:52) etchedit 
-\i (00:09:53) prepopup 32 614
-\i (00:09:58) pick grid -124 645
-\t (00:09:58) last pick:  -100  600
-\i (00:09:59) pick grid -8 612
-\t (00:09:59) last pick:  0  600
-\i (00:10:00) prepopup -30 610
-\i (00:10:08) pop dyn_option_select '@:@Show element' 
-\i (00:10:08) show element 
-\i (00:10:08) etchedit 
-\i (00:10:11) setwindow text
-\i (00:10:11) close 
-\i (00:10:12) setwindow pcb
-\i (00:10:12) pick grid -381 482
-\t (00:10:12) last pick:  -400  500
-\i (00:10:17) prepopup 1 599
-\i (00:10:19) pick grid 658 416
-\t (00:10:19) last pick:  700  400
-\i (00:10:20) drag_start grid -146 728
-\i (00:10:20) drag_stop 847 -115
-\i (00:10:22) prepopup 662 594
-\i (00:10:48) pick grid 614 225
-\t (00:10:48) last pick:  600  200
-\i (00:10:49) exit 
-\t (00:10:50)     Journal end - Thu Apr 13 21:28:59 2017
->>>>>>> 0b9b1d273ee943712d1b95cfb6101cceb35fbaac
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Mon Oct 23 19:08:00 2017
+\t (00:00:02)         Host=FLOPC User=MGZ Pid=11936 CPUs=4
+\t (00:00:02) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
+\i (00:00:03) trapsize 6
+\i (00:00:03) trapsize 5
+\i (00:00:03) trapsize 5
+\i (00:00:04) generaledit 
+\i (00:00:11) exit 
+\t (00:00:11)     Journal end - Mon Oct 23 19:08:10 2017

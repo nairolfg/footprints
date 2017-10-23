@@ -1,72 +1,46 @@
-<<<<<<< HEAD
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Thu Mar 23 18:18:59 2017
-\t (00:00:00)         Host=FLO-PC User=Flo Pid=3236 CPUs=2
-\t (00:00:00) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/FG0805R.dra
-\i (00:00:02) trapsize 52
-\i (00:00:02) trapsize 50
-\i (00:00:02) trapsize 52
-\i (00:00:02) trapsize 50
-\i (00:00:03) trapsize 42
-\i (00:00:03) trapsize 50
-\i (00:00:05) open 
-\i (00:00:16) fillin "C:\Cadence\Projekte\moving_head\moving_head.brd"
-\i (00:00:16) cd "C:\Cadence\Projekte\moving_head"
-\t (00:00:16) Opening existing design...
-\w (00:00:16) WARNING(SPMHDB-214): Allegro PCB Design Planner Option opening an Allegro Editor design.
-\w (00:00:16) WARNING(SPMHDB-213): DRC set to "out of date". This product supports a different DRC set than last product used on drawing.
-\w (00:00:16) WARNING(SPMHOD-34): Design was last saved by lower capability product (Allegro Editor). DRC is set out-of-date, you may wish to update DRC to reflect current rules.
-\i (00:00:17) fillin confirm
-\i (00:00:17) trapsize 275
-\t (00:00:17)     Journal end - Thu Mar 23 18:19:17 2017
-=======
-\t (00:10:45) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:10:45)     Journal start - Thu Apr 13 21:13:14 2017
-\t (00:10:45)         Host=FLORIAN_HP-PC User=Florian_HP Pid=6676 CPUs=2
-\t (00:10:45) 
-\d (00:10:45) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/WTV020.dra
-\i (00:10:46) etchedit 
-\i (00:10:47) zoom in 1 
-\i (00:10:47) setwindow pcb
-\i (00:10:47) zoom in -219 372
-\i (00:10:47) trapsize 11
-\i (00:10:48) zoom in 1 
-\i (00:10:48) setwindow pcb
-\i (00:10:48) zoom in -149 403
-\i (00:10:48) trapsize 5
-\i (00:10:48) zoom out 1 
-\i (00:10:48) setwindow pcb
-\i (00:10:48) zoom out -148 404
-\i (00:10:48) trapsize 11
-\i (00:10:50) drag_start grid -80 643
-\i (00:10:50) drag_stop 776 388
-\i (00:10:53) move 
-\i (00:10:54) pick grid 16 531
-\t (00:10:54) last pick:  25  525
-\t (00:10:54) Pick new location for the element(s).
-\i (00:10:57) pick grid 14 623
-\t (00:10:57) last pick:  25  625
-\i (00:10:57) etchedit 
-\i (00:11:00) prmed 
-\i (00:11:02) setwindow form.prmedit
-\i (00:11:02) FORM prmedit view_grids_button  
-\t (00:11:02) Spacing fields allow simple equations to aid calculations; prefix with =
-\i (00:11:09) setwindow form.grid
-\i (00:11:09) FORM grid non_etch non_etch_x_grids 100 
-\i (00:11:11) FORM grid non_etch non_etch_y_grids 100 
-\i (00:11:11) FORM grid done  
-\i (00:11:13) setwindow form.prmedit
-\i (00:11:13) FORM prmedit done  
-\i (00:11:14) setwindow pcb
-\i (00:11:14) etchedit 
-\i (00:11:22) save 
-\i (00:11:24) fillin yes 
-\t (00:11:29) Symbol 'wtv020.psm' created.
-\i (00:11:29) etchedit 
-\i (00:11:29) pick grid -239 449
-\t (00:11:29) last pick:  -200  400
-\i (00:11:33) exit 
-\t (00:11:34)     Journal end - Thu Apr 13 21:14:02 2017
->>>>>>> 0b9b1d273ee943712d1b95cfb6101cceb35fbaac
+\t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:01)     Journal start - Mon Oct 23 18:51:02 2017
+\t (00:00:01)         Host=FLOPC User=MGZ Pid=4640 CPUs=4
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
+\i (00:00:04) trapsize 6
+\i (00:00:04) trapsize 5
+\i (00:00:04) trapsize 5
+\i (00:00:04) generaledit 
+\i (00:00:07) open 
+\i (00:00:21) fillin "menu_cancel"
+\i (00:00:21) generaledit 
+\i (00:00:22) new 
+\i (00:00:29) newdrawfillin "test.brd" "Board"
+\t (00:00:29) Starting new design...
+\i (00:00:29) trapsize 7
+\i (00:00:29) trapsize 11
+\i (00:00:29) trapsize 11
+\i (00:00:30) generaledit 
+\i (00:00:30) place manual 
+\i (00:00:32) setwindow form.plc_manual
+\i (00:00:32) FORM plc_manual advanced_settings  
+\i (00:00:33) FORM plc_manual library YES 
+\i (00:00:33) FORM plc_manual placement_list  
+\i (00:00:37) FORM plc_manual categories Package symbols 
+\i (00:00:45) FORM plc_manual tree 'MULTISEL YES' DIP16_3 'Package symbols' 
+\w (00:00:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:45) FORM plc_manual tree  DIP16_3 'Package symbols' 
+\i (00:00:51) FORM plc_manual tree 'MULTISEL NO' DIP16_3 'Package symbols' 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) xname_flush 
+\i (00:01:33) xname_flush 
+\i (00:01:34) xname_flush 
+\i (00:01:36) xname_flush 
+\i (00:01:36) xname_flush 
+\i (00:01:38) xname_flush 
+\i (00:01:40) xname_flush 
+\i (00:01:58) setwindow form.plc_manual
+\i (00:01:58) FORM plc_manual cancel  
+\i (00:01:58) setwindow pcb
+\i (00:01:58) generaledit 
+\i (00:01:59) exit 
+\e (00:01:59) Do you want to save the changes you made to test.brd?
+\i (00:02:03) fillin no 
+\t (00:02:03)     Journal end - Mon Oct 23 18:53:04 2017
