@@ -1,46 +1,42 @@
 \t (00:00:01) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:01)     Journal start - Mon Oct 23 18:51:02 2017
-\t (00:00:01)         Host=FLOPC User=MGZ Pid=4640 CPUs=4
+\t (00:00:01)     Journal start - Tue Oct 24 09:59:32 2017
+\t (00:00:01)         Host=FLOPC User=MGZ Pid=2564 CPUs=4
 \t (00:00:01) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
-\i (00:00:04) trapsize 6
-\i (00:00:04) trapsize 5
-\i (00:00:04) trapsize 5
-\i (00:00:04) generaledit 
-\i (00:00:07) open 
-\i (00:00:21) fillin "menu_cancel"
-\i (00:00:21) generaledit 
-\i (00:00:22) new 
-\i (00:00:29) newdrawfillin "test.brd" "Board"
-\t (00:00:29) Starting new design...
-\i (00:00:29) trapsize 7
-\i (00:00:29) trapsize 11
-\i (00:00:29) trapsize 11
-\i (00:00:30) generaledit 
-\i (00:00:30) place manual 
-\i (00:00:32) setwindow form.plc_manual
-\i (00:00:32) FORM plc_manual advanced_settings  
-\i (00:00:33) FORM plc_manual library YES 
-\i (00:00:33) FORM plc_manual placement_list  
-\i (00:00:37) FORM plc_manual categories Package symbols 
-\i (00:00:45) FORM plc_manual tree 'MULTISEL YES' DIP16_3 'Package symbols' 
-\w (00:00:45) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:00:45) FORM plc_manual tree  DIP16_3 'Package symbols' 
-\i (00:00:51) FORM plc_manual tree 'MULTISEL NO' DIP16_3 'Package symbols' 
-\i (00:01:32) setwindow pcb
-\i (00:01:32) xname_flush 
-\i (00:01:33) xname_flush 
-\i (00:01:34) xname_flush 
-\i (00:01:36) xname_flush 
-\i (00:01:36) xname_flush 
-\i (00:01:38) xname_flush 
-\i (00:01:40) xname_flush 
-\i (00:01:58) setwindow form.plc_manual
-\i (00:01:58) FORM plc_manual cancel  
-\i (00:01:58) setwindow pcb
-\i (00:01:58) generaledit 
-\i (00:01:59) exit 
-\e (00:01:59) Do you want to save the changes you made to test.brd?
-\i (00:02:03) fillin no 
-\t (00:02:03)     Journal end - Mon Oct 23 18:53:04 2017
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
+\i (00:00:02) trapsize 6
+\i (00:00:02) trapsize 5
+\i (00:00:02) trapsize 5
+\i (00:00:02) generaledit 
+\i (00:00:04) pick grid -334 429
+\t (00:00:04) last pick:  -330  430
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -334 414
+\i (00:00:05) trapsize 11
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out -5 732
+\i (00:00:06) trapsize 11
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 289 -325
+\i (00:00:06) trapsize 5
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 256 -325
+\i (00:00:07) trapsize 3
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 257 -324
+\i (00:00:07) trapsize 5
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 254 -324
+\i (00:00:07) trapsize 11
+\i (00:00:08) zoom in 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom in 45 -263
+\i (00:00:08) trapsize 5
+\i (00:00:14) exit 
+\t (00:00:14)     Journal end - Tue Oct 24 09:59:45 2017

@@ -1,12 +1,18 @@
 \t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:02)     Journal start - Mon Oct 23 19:08:00 2017
-\t (00:00:02)         Host=FLOPC User=MGZ Pid=11936 CPUs=4
+\t (00:00:02)     Journal start - Tue Oct 24 10:01:35 2017
+\t (00:00:02)         Host=FLOPC User=MGZ Pid=5784 CPUs=4
 \t (00:00:02) 
-\t (00:00:03) Opening existing design...
-\d (00:00:03) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
-\i (00:00:03) trapsize 6
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/RJ45.dra
+\i (00:00:02) trapsize 6
 \i (00:00:03) trapsize 5
 \i (00:00:03) trapsize 5
-\i (00:00:04) generaledit 
-\i (00:00:11) exit 
-\t (00:00:11)     Journal end - Mon Oct 23 19:08:10 2017
+\i (00:00:03) generaledit 
+\i (00:00:06) save_as 
+\i (00:00:11) fillin "RJ45_2.dra"
+\t (00:00:12) Symbol 'rj45_2.psm' created.
+\i (00:00:12) generaledit 
+\i (00:00:13) pick grid -220 295
+\t (00:00:13) last pick:  -220  300
+\i (00:00:16) exit 
+\t (00:00:16)     Journal end - Tue Oct 24 10:01:48 2017
